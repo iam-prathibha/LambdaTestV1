@@ -1,0 +1,30 @@
+15:36:44.740 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug Logs ------ 
+15:36:45.523 [main] INFO  testCases.TC002_LoginTest - ----------- Entered into local env if condition -------
+15:36:48.192 [main] INFO  testCases.TC002_LoginTest - ---------- started browsing the application-------
+15:36:48.597 [main] INFO  testCases.TC002_LoginTest - ----------Started verifying login test--------
+15:36:50.379 [main] INFO  testCases.TC002_LoginTest - -------Started comparing the text upon successfull login-------
+15:36:50.427 [main] INFO  testCases.TC002_LoginTest - -------- Finished TC002_LoginTest -----------
+15:38:04.928 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/santoshkumarmedisetty/eclipse-workspace/LambdaTestV1/masterSuite.xml"
+15:38:06.128 [main] INFO  testCases.TC001_AccountRegistrationTest - ----------- Entered into local env if condition -------
+15:38:09.983 [main] INFO  testCases.TC001_AccountRegistrationTest - ---------- started browsing the application-------
+15:38:10.496 [main] INFO  testCases.TC001_AccountRegistrationTest - ----Started verifying account registration test -----
+15:38:11.317 [main] INFO  testCases.TC001_AccountRegistrationTest - ------ Started entering the values in registration form ------
+15:38:12.491 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- Started comparing the success msg after creating the account------
+15:38:12.539 [main] INFO  testCases.TC001_AccountRegistrationTest - ------ Finised TC001_AccountRegistrationTest --------
+15:38:12.796 [main] INFO  testCases.TC002_LoginTest - ----------- Entered into local env if condition -------
+15:38:15.626 [main] INFO  testCases.TC002_LoginTest - ---------- started browsing the application-------
+15:38:16.108 [main] INFO  testCases.TC002_LoginTest - ----------Started verifying login test--------
+15:38:17.755 [main] INFO  testCases.TC002_LoginTest - -------Started comparing the text upon successfull login-------
+15:38:17.807 [main] INFO  testCases.TC002_LoginTest - -------- Finished TC002_LoginTest -----------
+15:45:15.487 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/santoshkumarmedisetty/eclipse-workspace/LambdaTestV1/masterSuite.xml"
+15:45:15.966 [main] INFO  testCases.TC001_AccountRegistrationTest - ----------- Entered into local env if condition -------
+15:45:20.089 [main] INFO  testCases.TC001_AccountRegistrationTest - ---------- started browsing the application-------
+15:45:20.667 [main] INFO  testCases.TC001_AccountRegistrationTest - ----Started verifying account registration test -----
+15:45:21.567 [main] INFO  testCases.TC001_AccountRegistrationTest - ------ Started entering the values in registration form ------
+15:45:22.851 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- Started comparing the success msg after creating the account------
+15:45:22.898 [main] INFO  testCases.TC001_AccountRegistrationTest - ------ Finised TC001_AccountRegistrationTest --------
+15:45:23.312 [main] INFO  testCases.TC002_LoginTest - ----------- Entered into local env if condition -------
+15:45:26.232 [main] INFO  testCases.TC002_LoginTest - ---------- started browsing the application-------
+15:45:26.659 [main] INFO  testCases.TC002_LoginTest - ----------Started verifying login test--------
+15:45:28.307 [main] INFO  testCases.TC002_LoginTest - -------Started comparing the text upon successfull login-------
+15:45:28.352 [main] INFO  testCases.TC002_LoginTest - -------- Finished TC002_LoginTest -----------

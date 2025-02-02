@@ -1,0 +1,49 @@
+19:18:03.985 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:18:03.994 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:18:03.995 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:18:03.995 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:18:03.998 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:18:03.998 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:18:03.999 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:18:03.999 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:18:04.000 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:18:04.000 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:18:04.002 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:18:04.002 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:18:04.002 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:18:04.002 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:18:04.010 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /private/var/folders/4n/zwmcxgy12dbccsmx1h1jwm640000gn/T/testng-eclipse--291483985/testng-customsuite.xml
+
+19:18:04.033 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+19:18:04.169 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5644dc81: 59 ms
+19:18:04.178 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1e7aa82b: 9 ms
+19:18:04.188 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7e22550a: 9 ms
+19:18:04.193 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1a7288a3: 5 ms
+19:18:04.197 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4044fb95: 4 ms
+19:18:04.198 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@aa549e5: 0 ms
+19:18:42.671 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/santoshkumarmedisetty/eclipse-workspace/LambdaTestV1/testng.xml"
+19:18:42.940 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/santoshkumarmedisetty/eclipse-workspace/LambdaTestV1/testng.xml
+
+19:18:48.927 [main] INFO  testCases.TC001_AccountRegistrationTest - ----Started verifying account registration test -----
+19:18:49.918 [main] INFO  testCases.TC001_AccountRegistrationTest - ------ Started entering the values in registration form ------
+19:18:51.472 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- Started comparing the success msg after creating the account------
+19:18:51.515 [main] INFO  testCases.TC001_AccountRegistrationTest - ------ Finised TC001_AccountRegistrationTest --------
+19:18:55.357 [main] INFO  testCases.TC002_LoginTest - ----------Started verifying login test--------
+19:18:57.209 [main] INFO  testCases.TC002_LoginTest - -------Started comparing the text upon successfull login-------
+19:18:57.247 [main] INFO  testCases.TC002_LoginTest - -------- Finished TC002_LoginTest -----------
+19:21:14.846 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/santoshkumarmedisetty/eclipse-workspace/LambdaTestV1/testng.xml"
+19:21:56.523 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/santoshkumarmedisetty/eclipse-workspace/LambdaTestV1/testng.xml"
+19:21:56.774 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/santoshkumarmedisetty/eclipse-workspace/LambdaTestV1/testng.xml
+
+19:22:05.591 [main] INFO  testCases.TC003_SearchProductTest - ---------- Started verifying search product Test--------
+19:22:11.231 [main] INFO  testCases.TC003_SearchProductTest - ------- Entered into product details page --------
+19:22:59.125 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/santoshkumarmedisetty/eclipse-workspace/LambdaTestV1/testng.xml"
+19:22:59.364 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/santoshkumarmedisetty/eclipse-workspace/LambdaTestV1/testng.xml
+
+19:23:05.061 [main] INFO  testCases.TC003_SearchProductTest - ---------- Started verifying search product Test--------
+19:23:10.567 [main] INFO  testCases.TC003_SearchProductTest - ------- Entered into product details page --------
+19:24:50.165 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/santoshkumarmedisetty/eclipse-workspace/LambdaTestV1/testng.xml"
